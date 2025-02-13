@@ -1,0 +1,10 @@
+name = "hello"
+description = "core library for MilouXplorer"
+version = "0.1.0-dev"
+
+authors = ["Your Name"]
+maintainers = ["Your Name <yassinebsofien@gmail.com>"]
+maintainers-logins = ["ENISSAY39"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
